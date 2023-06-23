@@ -40,9 +40,9 @@ resource "google_cloudbuild_trigger" "docker_build_trigger" {
       args = [
         "login",
         "-u",
-        "gaser98",
+        "docker_username",
         "-p",
-        "22p8zwBSTji8Q8z",
+        "docker_password",
       ]
     }
 
