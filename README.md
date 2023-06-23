@@ -5,6 +5,8 @@ Created a service account with the necessary permissions then built the docker t
 ![image](https://github.com/Gaser98/cloudbuild-with-terraform/assets/76227165/1582082b-4d14-4590-a3d5-1c6da58a5bd7)
 
 Note: Secret manager accessor to use a secret file for dockerhub creds if needed 
+      
       Storage admin to configure remote backend for terraform state file if needed
+
 For deployment,create a service on cloud run.
 
