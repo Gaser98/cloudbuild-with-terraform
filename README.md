@@ -11,3 +11,5 @@ Note: Secret manager accessor to use a secret file for dockerhub creds and Stora
 
 For deployment,create a service on cloud run.
 
+Bash scripts were added for the automation of the running and destroying of the trigger.
+
